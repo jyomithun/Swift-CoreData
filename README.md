@@ -1,2 +1,3 @@
 # Swift-CoreData
-Coredata helper code
+The code source which would help to make basic concept in coredata
+Storing and fetching the data
